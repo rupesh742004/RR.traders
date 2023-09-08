@@ -1,0 +1,48 @@
+(this is  home page)
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>rupesh web </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+     <div class="sidebar">
+       <small> created by - <br><center> Rohit Rahangdale</center></small>
+        <nav>
+            <ul>
+                <li><a href="home.html" >home</a></li>
+                <li><a href="intro.html" >intro</a></li>
+                <li><a href="services.html"> services</a></li>
+                <li><a href="blog.html"> blog</a></li>
+                <li><a href="contect me.html"> contect me</a></li>
+                
+            </ul>
+        </nav>
+    </div>
+    <div class="main">
+       <div class="infocontainer">
+        <div class="devinfo">
+            <div class="hello"> <h4> Hi i am </h4> </div>
+            <div class="name"><h3>Rupesh</h3> </div>
+            <div class="about">  Web   developer   <br/></div>
+            <div class="moreabout"> i am developer and  B.Teche 12year student   <br/></div>
+            <div class="butten">
+                <br><br>
+                <button class="profilebutton" type="button">profile</button>
+                <button class="aboutbutton" type="button">about</button>
+               
+            </div>
+        </div
+        <div class="devpic"><img src="devimg.png" alt="rupesh Rahangdale"></div>
+       </div>
+      </div>
+</div>
+</body>
+</html>
